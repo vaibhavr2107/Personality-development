@@ -5,7 +5,9 @@ import { fonts, colors } from './_var'
 export const Wrapper = styled.div.attrs({
   className: 'jumbotron'
 })`
-  background-color: inherit;
+  background-color: #6448d4;
+  width:100%;
+  height: 100vh;
   .title {
     font-family: ${fonts.$titleFont};
     font-size: 2em;
