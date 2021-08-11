@@ -43,7 +43,7 @@ export const Wrapper = styled.div.attrs({
     ${media.laptop`padding: 0 25em;`};
     .list-group-item {
       background: ${colors.$colorCardBg};
-      background: repeating-linear-gradient(135deg, rgba(0, 0, 0, 0.3), transparent 1px, rgba(0, 0, 0, 0.3) 2px);
+      
       background-size: 3px 3px;
       padding: 1em 1.25em;
       font-family: ${fonts.$latoFont};
