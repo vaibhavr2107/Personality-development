@@ -6,6 +6,6 @@ After I altered it to created this applicaiton.
 
 
 
-[View demo](https://personalitydevtest1.herokuapp.com/)
+[View demo](https://personalitytestbyvarp.herokuapp.com//)
 
 Created with [Create React App](https://github.com/facebookincubator/create-react-app)
